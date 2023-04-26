@@ -36,8 +36,10 @@
 <Shap 활용 예시>![image](https://user-images.githubusercontent.com/131750990/234492221-334d61c8-f382-404c-a0ac-b9d264c91bc6.png)
 <h2><p style="color:red">주요결과요약</p></h2>
 아래 그림은 각 권역별로 도출된 영향요인 중 긍정적/부정적 영향요인에 대해 상위 5개 요인과 이를 바탕으로 도출한 주요 주제를 나타낸 것임
+
 ![image](https://user-images.githubusercontent.com/131750990/234492324-f9a76a4a-c373-4ea2-b26f-cdc13855ac93.png)
 다음 그림은 각 권역에서 한 번이라도 도출된 상위 영향요인들에 대해, 서울 전체 리뷰에 대한 상대적 영향력과 연관어를 시각화한 것임
+
 ![image](https://user-images.githubusercontent.com/131750990/234492397-cd97ef8b-a1ca-4b3e-a730-b7ce05b9bcf4.png)
 <h3>연구 결론</h3>
 
